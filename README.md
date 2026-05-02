@@ -16,4 +16,6 @@ A high-fidelity clone of the Twitter (X) web interface. This project focuses on 
 - Assets (SVG Icons)
 
 ---
-*Note: This is a portfolio project built for educational purposes.*
+### Note:
+This is a portfolio project built for educational purposes.
+Not affiliated with Twitter/X corp. All trademarks belong to their respective owner.
