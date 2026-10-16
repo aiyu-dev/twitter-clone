@@ -18,61 +18,62 @@ A frontend clone of the Twitter (X) web interface, built with HTML and Tailwind 
 - **Main feed:** "For you" and "Following" tabs, a "What's happening?" post box, and tweet cards with images
 - **Right sidebar:** Search bar, "Subscribe to Premium" card, "What's happening" trends, and "Who to follow" suggestions
 - **Dark theme:** Styled to match the X interface
-- **Responsive layout:** Works on desktop and tablet screens
-- **Custom fonts:** Google Fonts for an authentic Twitter look
+- *Fully responsive:* Adapts to mobile, tablet, and desktop screens
+- *Custom fonts:* Google Fonts for an authentic Twitter look
 
 ---
 
 ## 🛠️ Built With
 
-- **HTML5**
-- **Tailwind CSS**
-- **SVG icons**
-- **Google Fonts**
-- **Deployment:** Vercel
+- *HTML5*
+- *Tailwind CSS*
+- *SVG icons*
+- *Google Fonts*
+- *Deployment:* Vercel
 
 ---
 
 ## 📦 Installation & Setup
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/aiyu-dev/twitter-clone.git
-   ```
+   
 2. Go into the project folder:
-   ```bash
+   bash
    cd twitter-clone
-   ```
+   
 3. Install dependencies:
-   ```bash
+   bash
    npm install
-   ```
-4. Run the project (for example with the build script from `package.json`), then open `index.html` in your browser or with the VS Code Live Server extension.
+   
+4. Run the project with the command from your package.json (for example npm run build), then open index.html in your browser or with the VS Code Live Server extension.
 
 ---
 
-## 📚 What I Learned
+## 📚 Key Learnings
 
-- Building a complex three-column layout with Tailwind CSS
-- Using Flexbox and Grid for precise alignment of icons and text
-- Keeping a sidebar fixed while the main feed scrolls
-- Adjusting spacing (padding, margin) and styling to match a real interface
+- Structuring a three-column layout with Tailwind CSS utility classes
+- Aligning interface elements precisely with Flexbox and Grid
+- Implementing a fixed sidebar alongside a scrollable feed
+- Building responsive layouts that adapt across mobile, tablet, and desktop breakpoints
+- Fine-tuning spacing and typography to match a production interface
 - Deploying a frontend project on Vercel
 
 ---
 
 ## 🎓 Credits
+This project was developed as a learning exercise based on [CodeWithHarry's](https://www.youtube.com/@CodeWithHarry) Tailwind CSS tutorial, which provided the foundation for the layout and structure.
 
-This project is based on [CodeWithHarry's](https://www.youtube.com/@CodeWithHarry) tutorial, which I followed to learn Tailwind CSS.
+### My Contributions
 
-**My own contributions:**
-- Built the third section (the right sidebar, starting from the search bar) on my own
-- Made my own code adjustments throughout, including padding, margins and other styling
+- Independently designed and implemented the right sidebar (search bar, Premium card, trends and follow suggestions)
+- Customized spacing, alignment and styling across the interface, including padding and margins
 - Deployed the project on Vercel
 
 ---
 
-## ⚠️ Note
+## ⚠️ Disclaimer
 
 This is a portfolio project built for educational purposes. It is not affiliated with Twitter/X Corp. All trademarks belong to their respective owners.
 
