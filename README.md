@@ -18,8 +18,8 @@ A frontend clone of the Twitter (X) web interface, built with HTML and Tailwind 
 - **Main feed:** "For you" and "Following" tabs, a "What's happening?" post box, and tweet cards with images
 - **Right sidebar:** Search bar, "Subscribe to Premium" card, "What's happening" trends, and "Who to follow" suggestions
 - **Dark theme:** Styled to match the X interface
-- *Fully responsive:* Adapts to mobile, tablet, and desktop screens
-- *Custom fonts:* Google Fonts for an authentic Twitter look
+- **Fully responsive:** Adapts to mobile, tablet, and desktop screens
+- **Custom fonts:** Google Fonts for an authentic Twitter look
 
 ---
 
